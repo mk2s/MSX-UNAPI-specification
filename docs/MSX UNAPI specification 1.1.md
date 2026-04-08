@@ -110,7 +110,7 @@ Before proceeding any further, a glossary of terms used along this document will
 
 * **Specificationless UNAPI application**: Application software (typically, a resident application) that does not conform to any concrete UNAPI specification, but that make use of the remaining of the UNAPI infrastructure, namely, the implementation and discovery rules. See [Section 5](#5-specificationless-unapi-applications) for more details.
 
-* **FFh**: Hexadecimal numbers are denoted with the "h" prefix in this document, so for example FFh is 255.
+* **FFh**: Hexadecimal numbers are denoted with the "h" suffix in this document, so for example FFh is 255.
 
 Through this document, and unless otherwise stated, the term "API specification" will actually have the meaning of "UNAPI compliant API specification". The same applies to references to API implementations.
 
